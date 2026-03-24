@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">- VeggieWaste | Vision Sensor Model <br>Built with MobileNetV3 and trained on 2,000+ images to detect rotten images, deployed with ONNX + C# backend.<br><br>Made for the 2026 Summer Hack for Humanity Hackathon | Ranking #27th Place<br><br>- Personal Finance Tracker <br>Built using a TypeScript + React Frontend that sends hashed information via a REST API to my C# Backend that stores or retrieves from a SQLite database. I later made and hosted it on an Ubuntu Server using an old PC for fun.<br> (May return to in the future)<br><br>Made for my Grade 12 Computer Science (ICS4U1) Capstone Project.<br><br>- FindYourNonProfit | Volunteer Search Engine for Canada<br>Built using a TypeScript + React Frontend that has filter parameters and keyword searching. The backend preloads volunteer opportunities from a database and caches them. Using this, the frontend sends the user inputs to the backend search endpoint that infers the best opportunities using a point-based inference system.<br><br>Made for the Jan 2026, Alameda Hackathon</p>
+<p align="left">
+  - <b><a href="https://github.com/Flying-Tea/VeggieWaste" target="_blank">VeggieWaste</a> | Vision Sensor Model <br></b>Built with MobileNetV3 and trained on 2,000+ images to detect rotten images, deployed with ONNX + C# backend.<br><br>Made for the 2026 Summer Hack for Humanity Hackathon | Ranking #27th Place<br><br>
+  - <b><a href="https://github.com/Flying-Tea/VeggieWaste" target="_blank">Personal Finance Tracker</a> | Finance Manager <br></b>Built using a TypeScript + React Frontend that sends hashed information via a REST API to my C# Backend that stores or retrieves from a SQLite database. I later made and hosted it on an Ubuntu Server using an old PC for fun.<br> (May return to in the future)<br><br>Made for my Grade 12 Computer Science (ICS4U1) Capstone Project. <br>(P.S. Mr. B, You were a great teacher!)<br><br>
+  - <b><a href="https://github.com/Flying-Tea/VeggieWaste" target="_blank">FindYourNonProfit</a> | Volunteer Search Engine for Canada</b><br>Built using a TypeScript + React Frontend that has filter parameters and keyword searching. The backend preloads volunteer opportunities from a database and caches them. Using this, the frontend sends the user inputs to the backend search endpoint that infers the best opportunities using a point-based inference system.<br><br>Made for the Jan 2026, Alameda Hackathon
+</p>
 
 ###
 
@@ -35,7 +39,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/jacksonosmond" target="_blank">
+  <a href="https://www.linkedin.com/in/jacksonosmond" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
