@@ -39,11 +39,10 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jacksonosmond" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
-  </a>
+  <a href="https://www.linkedin.com/in/jacksonosmond" target="_blank" style="text-decoration:none">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
   &ensp;
-  <img src="https://komarev.com/ghpvc/?username=Flying-Tea&color=green" alt="View Count"/>
+    <img src="https://komarev.com/ghpvc/?username=Flying-Tea&color=green" alt="View Count"/>
 </div>
 
 ###
